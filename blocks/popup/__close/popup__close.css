@@ -1,7 +1,7 @@
 .popup__close {
 width: 20px;
 height: 20px;
-background: url(/images/close.svg) no-repeat center;;
+background: url(/images/close.svg) no-repeat center;
 position: absolute;
 top: -36px;
 right: 19px;
@@ -17,6 +17,5 @@ padding: 0;
       height: 32px;
       left: 438px;
       top: -40px;
-
     }
 }
