@@ -1,0 +1,7 @@
+.profile__add_active {
+    cursor: pointer;
+}
+
+.profile__add_active:hover {
+    opacity: 0.6;
+} 

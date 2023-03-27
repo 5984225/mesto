@@ -1,0 +1,21 @@
+.photo__card {
+    background: #FFFFFF;
+    border-radius: 10px;
+    width: 282px;
+    min-height: 361px;
+    text-align: center;
+    margin: 0 19px;
+}
+
+  
+@media screen and (min-width: 768px) {
+    .photo__card {
+        margin-left: 70px;
+    }
+  }
+  
+  @media screen and (min-width: 1280px) {
+    .photo__card {
+        margin: 0;
+    }
+  }

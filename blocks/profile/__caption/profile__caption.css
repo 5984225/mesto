@@ -1,0 +1,22 @@
+.profile__caption {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 0;
+  margin: 14px auto 36px auto;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+@media screen and (min-width: 1280px) {
+  .profile__caption {
+    margin: 0 auto 76px 30px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+}

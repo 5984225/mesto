@@ -1,0 +1,7 @@
+.popup__close_active {
+    cursor: pointer;
+}
+
+.popup__close_active:hover {
+    opacity: 0.6;
+} 

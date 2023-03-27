@@ -1,0 +1,7 @@
+.photo__heart_active {
+    cursor: pointer;
+}
+
+.photo__heart_active:hover {
+    opacity: 0.5;
+} 

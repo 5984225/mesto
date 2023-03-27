@@ -1,0 +1,7 @@
+.popup__save_active {
+    cursor: pointer;
+}
+
+.popup__save_active:hover {
+    opacity: 0.8;
+} 
